@@ -1,0 +1,7 @@
+lhola git
+git int =creamos un repositorio
+git status=vemos info del repositorio
+git add . pasar archivo al area de seguiumiento psrs poder confirmarlo o commit 
+git help me dicee todo lo que pouedo hacer 
+gitt commit-m un mensaje representatvio 
+eqwe
